@@ -34,6 +34,7 @@ public class CustomProductComparator implements Comparator<Product>{
         System.out.println("\nSorted list based on price:");
         for (DefaultProduct product : productList) {
             System.out.println(product);
+            
         }
 	}
 }
