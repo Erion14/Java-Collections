@@ -1,6 +1,5 @@
 package iterator;
 
-import java.util.Iterator;
 
 public interface MyList extends Iterable<Object> {
 	

@@ -5,7 +5,8 @@ import java.util.NoSuchElementException;
 
 public class DefaultMyList implements MyList {
 
-    private Object[] elements;
+    @SuppressWarnings("unused")
+	private Object[] elements;
     private int size;
 
     private Node first;
