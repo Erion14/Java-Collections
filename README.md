@@ -30,7 +30,7 @@ The Java Collections Framework provides a set of classes and interfaces to handl
 ### 4. Help Desk System
 
 - **Objective**: Design the back-end system of a Help Desk for an online store using the concepts of queues and dequeues.
-- **File**: [HelpDeskSystem.java](#)
+- **File**: [HelpDesk.java](#)
 
 ---
 
