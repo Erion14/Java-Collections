@@ -36,7 +36,7 @@ The Java Collections Framework provides a set of classes and interfaces to handl
 ### 5. LRU Cache Implementation
 
 - **Objective**: Implement an LRU (Least Recently Used) Cache for efficient data storage and retrieval.
-- **File**: [LruCache.java](#)
+- **File**: `LruCache.java`
 
 
 ---
