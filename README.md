@@ -33,6 +33,12 @@ The Java Collections Framework provides a set of classes and interfaces to handl
 - **Description**: Design the back-end system of a Help Desk for an online store using the concepts of queues and dequeues.
 
 
+### 5. LRU Cache Implementation
+
+- **Objective**: Implement an LRU (Least Recently Used) Cache for efficient data storage and retrieval.
+- **File**: [LruCache.java](#)
+
+
 ---
 
 ## How to Use
