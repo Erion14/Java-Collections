@@ -5,6 +5,10 @@ import java.util.Map;
 
 public class DefaultLruCache extends LinkedHashMap<Integer, Integer> implements LruCache {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private int capacity;
 	
 	public DefaultLruCache(int capacity) {
